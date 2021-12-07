@@ -18,7 +18,7 @@ def get_tweet(tweets_file, excluded_tweets=None):
     if excluded_tweets:
         recent_tweets = [status_object.text for status_object in excluded_tweets]
         possible_tweets = [tweet for tweet in possible_tweets if tweet not in recent_tweets]
-
+    
     selected_tweet = random.choice(possible_tweets)
 
     return selected_tweet
