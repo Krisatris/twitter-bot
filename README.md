@@ -1,4 +1,4 @@
-# Inspiro Bot 3000 for Twitter. Runs on [krisatris-bot](https://twitter.com/krisatris-bot)
+# Inspiro Bot 3000 for Twitter. Runs on [krisatris-bot](https://twitter.com/krisatris_bot)
 
 This is a fork of [this repository](https://github.com/dylanjcastillo/twitter-bot-python-aws-lambda). Their ReadMe continues as follows.
 
